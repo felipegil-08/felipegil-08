@@ -24,12 +24,6 @@ construyendo cosas, rompiendo cosas y volviendo a intentarlo.
 - Desarrollo de APIs con Django REST Framework
 - Control de versiones avanzado con Git
 
----
-
-## 📊 Mis estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipegil-08&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegil-08&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -38,7 +32,7 @@ construyendo cosas, rompiendo cosas y volviendo a intentarlo.
 - 🎖️ Bachiller militar — me enseñó disciplina y trabajo en equipo
 - 🍔 Trabajo en McDonald's — sé lo que es operar bajo presión
 - 🌎 Experiencia trabajando con empresa en EE. UU.
-- 📍 Medellín, siempre
+- 📍 Medellín, Antioquia
 
 ---
 
